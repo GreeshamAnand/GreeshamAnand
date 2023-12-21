@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm a Data Scientist focussed on Time Series Forecasting and unsupervised classification techniques using python. I've worked as a Data Scientist on Prognostic and Diagnostic algorithms using multivariate IOT sensor data. Currently, I've a Patent pending on one of the Algorithms.
+I'm a Data Scientist focussed on Time Series Forecasting and causal Inference using python. I've worked as a Data Scientist on Prognostic and Diagnostic algorithms using multivariate IOT sensor data. Currently, I've a Patent published on one of the Algorithms.
 
 
 Topics that excite me -
 
 - Time Series Forecasting
+- Causal Inference
 - reproducible work & production readiness
 - Model Deployment Architecture
 - Unsupervised Classification
